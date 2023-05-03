@@ -2,12 +2,12 @@ Master Patch File
 
 pseudo code
 {
-Initial Function()
+Initial Function1()
 {
   //Sample Code
 }
 
-Initial Security()
+Initial Security2()
 {
  //Sample Code
 }
